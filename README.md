@@ -55,4 +55,4 @@ Todas las imágenes fueron generadas con IA para este proyecto.
 
 ## Licencia
 
-Uso académico — proyecto de curso FrontEnd.
+Uso académico — proyecto de curso FrontEnd
